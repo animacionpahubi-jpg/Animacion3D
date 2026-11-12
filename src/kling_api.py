@@ -38,9 +38,9 @@ def pedir(ruta, cuerpo=None):
 def b64(p): return base64.b64encode(pathlib.Path(p).read_bytes()).decode()
 
 
-def generar(nombre, inicio, final, prompt, segundos=5, modelo="kling-v3", modo="pro"):
+def generar(nombre, inicio, final, prompt, segundos=5, modelo="kling-v3", modo="pro", sonido="off"):
     cuerpo = {"model_name": modelo, "mode": modo, "image": b64(inicio), "prompt": prompt + ESTILO, "negative_prompt": NEGATIVO,
-              "cfg_scale": 0.5, "duration": str(segundos)}
+              "cfg_scale": 0.5, "duration": str(segundos), "sound": sonido}
     if final: cuerpo["image_tail"] = b64(final)
     r = pedir("/v1/videos/image2video", cuerpo)
     if r.get("code") != 0: sys.exit(f"Kling rechazó la tarea: {json.dumps(r, ensure_ascii=False)[:500]}")
@@ -55,7 +55,7 @@ def generar(nombre, inicio, final, prompt, segundos=5, modelo="kling-v3", modo="
     url = e["data"]["task_result"]["videos"][0]["url"]
     SAL.mkdir(parents=True, exist_ok=True)
     with urllib.request.urlopen(url, timeout=300) as v: (SAL / f"{nombre}.mp4").write_bytes(v.read())
-    meta = {"nombre": nombre, "modelo": modelo, "modo": modo, "segundos": segundos, "inicio": str(inicio), "final": str(final) if final else None,
+    meta = {"nombre": nombre, "modelo": modelo, "modo": modo, "sonido": sonido, "segundos": segundos, "inicio": str(inicio), "final": str(final) if final else None,
             "prompt": cuerpo["prompt"], "task_id": tid, "fecha": datetime.now(timezone.utc).isoformat(timespec="seconds")}
     (SAL / f"{nombre}.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
     g = json.loads(REG.read_text(encoding="utf-8")) if REG.exists() else {"tareas": []}
@@ -68,4 +68,4 @@ if __name__ == "__main__":
     a = sys.argv[1:]
     op = lambda k, d: a[a.index(k) + 1] if k in a else d
     generar(a[0], pathlib.Path(a[1]), None if a[2] == "-" else pathlib.Path(a[2]), a[3],
-            int(op("--segundos", 5)), op("--modelo", "kling-v3"), op("--modo", "pro"))
+            int(op("--segundos", 5)), op("--modelo", "kling-v3"), op("--modo", "pro"), op("--sonido", "off"))

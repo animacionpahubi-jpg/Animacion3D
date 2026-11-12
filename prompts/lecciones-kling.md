@@ -45,3 +45,16 @@ muertos recortados y tomas más cercanas. El v6 tuvo planos de 10 s con ~4 s de 
 - Recortar en el montaje todo segundo en que no pasa nada (pasa algo nuevo cada 3–5 s).
 - Alternar plano cercano y abierto sobre el fondo fijo; nunca terminar con una imagen fija (se nota el salto).
 - 5 planos × 5 s ≈ 20 unidades por capítulo.
+
+## API (2026-11-12)
+- Audio nativo: campo `"sound": "on"|"off"` (`src/kling_api.py --sonido on`). Modo `std` ≈ 720p (0,6 u/s; 0,9 con sonido), `pro` ≈ 1080p.
+- Campos desconocidos se IGNORAN y la tarea se cobra igual: para averiguar un parámetro, mandar SOLO un valor inválido de un campo que
+  sí existe, uno a la vez, y parar en el primer error que liste los valores permitidos (un sondeo mal hecho gastó ~3 unidades).
+
+## Voces (audio nativo, 2026-11-12)
+- Kling 3.0 SÍ habla español (`--sonido on`): pedir la frase entre comillas, «in Latin American SPANISH», y el tipo de voz
+  («warm adult woman's voice» para mamá, «cute high-pitched little boy's voice» para el bebé). Revisar con `python src/transcribir.py clip.mp4`.
+- Las frases suelen terminar en los últimos 0,3 s del clip: al tomar la voz, cortar HASTA EL FINAL del clip y medir la energía antes;
+  una ventana justa cortó «¡Vue-…!» y «mam-…» (observación del usuario). Ejemplo: `src/cap2v_textos_audio.py`.
+- El clip trae música y ruidos propios (un «balido»): usar solo la ventana de la voz y bajar la música propia mientras hablan.
+- Mientras alguien habla no se puede acelerar el tramo: si hay un defecto visual ahí, hay que regenerar el plano.

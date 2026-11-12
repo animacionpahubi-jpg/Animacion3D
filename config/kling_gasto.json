@@ -111,6 +111,30 @@
    "segundos": 5,
    "task_id": "949532486198642421",
    "fecha": "2026-11-11T16:51:28+00:00"
+  },
+  {
+   "nombre": "cap3-voz-prueba",
+   "modelo": "kling-v3",
+   "modo": "std",
+   "segundos": 5,
+   "task_id": "949872915569330009",
+   "fecha": "2026-11-12T15:25:12+00:00"
+  },
+  {
+   "nombre": "cap2v-P4",
+   "modelo": "kling-v3",
+   "modo": "std",
+   "segundos": 5,
+   "task_id": "949874795712889637",
+   "fecha": "2026-11-12T15:32:55+00:00"
+  },
+  {
+   "nombre": "cap2v-P5",
+   "modelo": "kling-v3",
+   "modo": "std",
+   "segundos": 5,
+   "task_id": "949875753213117021",
+   "fecha": "2026-11-12T15:35:18+00:00"
   }
  ]
 }
