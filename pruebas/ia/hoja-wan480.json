@@ -1,0 +1,22 @@
+{
+ "nombre": "hoja-wan480",
+ "modelo": "alibaba/wan-3.0/reference-to-video",
+ "guia": "pruebas\\guia-hoja.mp4",
+ "segundos": 5,
+ "usd_aprox": 0.25,
+ "cuerpo": {
+  "prompt": "Cinematic 3D animated feature film shot, high-end animation studio quality. The baby hummingbird shown in Image 1 (face close-up) and Image 2 (character sheet): keep his exact design: round lime-green plush body with creamy yellow belly, purple knitted beanie with lighter horizontal stripes and a fluffy purple pompom, two or three small green leaf-shaped crest feathers, big eyes with dark purple irises and two highlights, pink cheeks, thin straight slate-blue beak, pink wings, purple feet. Follow EXACTLY the motion, timing, positions and camera movement of Video 1: he flies in from the top right with very fast hummingbird wing beats, slows down, hovers behind the edge of a big glossy green leaf in the foreground, then lowers and peeks over the leaf edge with his beak toward a big clear dew drop on the leaf, curious and happy. Golden sunrise backlight with the sun in the upper right, warm sun rays through a lush tropical jungle, soft morning mist, shallow depth of field with warm bokeh, tiny dew droplets sparkling on the leaf and its veins. Replace the simple blockout shapes with rich, detailed materials. No text, no extra characters.",
+  "reference_image_urls": [
+   "https://v3b.fal.media/files/b/0ab1888d/WcjKUvrzeOCG5vvm-g-uE__bebe-cara.png",
+   "https://v3b.fal.media/files/b/0ab1888c/u5S_fGP3cqhu5pvxgNmAI_bebe-hoja.png"
+  ],
+  "reference_video_urls": [
+   "https://v3b.fal.media/files/b/0ab1888c/U4jQVr8ebWq5NWBvteOfy_guia-hoja.mp4"
+  ],
+  "resolution": "480p",
+  "aspect_ratio": "9:16",
+  "duration": 5,
+  "audio": false
+ },
+ "fecha": "2026-11-07T16:47:20+00:00"
+}

@@ -1,0 +1,11 @@
+{
+ "nombre": "cap2-P2b",
+ "modelo": "kling-v3",
+ "modo": "pro",
+ "segundos": 5,
+ "inicio": "capitulos\\cap2-tu-puedes\\k2.png",
+ "final": "capitulos\\cap2-tu-puedes\\k3.png",
+ "prompt": "The baby hummingbird hops off the tip of the right leaf and flaps his little wings twice, too slowly, but he CANNOT fly: he drops right away, falling down and to the left in a short arc BELOW mom, and lands belly-first on the big leaf at the lower left with a soft plop; the leaf bends a little and he ends lying belly-down with his feet up, surprised, exactly as in the end image. Mom stays hovering at the upper left the whole time, watching him, surprised; the two never touch or overlap. Same set, same camera, one continuous shot. Dew drops stay still on the leaves. Keep both characters exactly as in the start and end images the whole time: the baby's magenta striped knitted beanie with the pompom at the back, his three thin green leaf feathers growing from his forehead at the front edge of the beanie, his long thin straight navy-blue beak; mom (if present) with her soft leafy crest, always clearly bigger than the baby. Drops always fall with gravity. Continuous single shot, high-end 3D animated feature film quality, warm golden sunrise backlight, saturated warm colors, smooth fluid animation.",
+ "task_id": "949522495077106470",
+ "fecha": "2026-11-11T16:15:59+00:00"
+}

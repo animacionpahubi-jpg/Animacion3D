@@ -1,0 +1,3 @@
+Use your image generation tool to create ONE image and save it as capitulos/cap2-tu-puedes/k3.png.
+Edit the first attached image (k3_v2.png): keep the baby EXACTLY as he is (lying belly-down on the leaf, same pose, face, beanie, leaf feathers, position and size), same set, light and camera.
+ONLY move MOM: she must hover at the UPPER LEFT of the frame, in the same place and size as in the second attached image (k2.png), looking down at the baby with a surprised face, wings in a fast blur. Remove her from the upper right. Mom has no hat, soft crest of separate matte leaf feathers, peach-pink wings, clearly bigger than the baby. Portrait 1024x1536. No text.

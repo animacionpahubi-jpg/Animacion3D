@@ -1,0 +1,11 @@
+{
+ "nombre": "cap1-plano3-rie",
+ "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+ "inicio": "personajes\\referencias\\cap1-img2-barro.png",
+ "final": "personajes\\referencias\\cap1-img3-rie.png",
+ "prompt": "Sitting still in the mud, the baby hummingbird looks up surprised. A single shiny dew drop falls from the leaf above and lands with a plip right on the tip of his beak, bursting into tiny sparkling splashes. He squeezes his eyes shut and bursts out laughing happily, opening his pink feathered wings a little. He stays sitting in the same place. The camera stays still with a very slow push-in. Keep the character exactly as in the start image the whole time: same knitted purple striped beanie with pompom, same small green leaf crest, same short straight slate-blue beak, pink feathered wings, purple feet. Continuous single shot, no cuts. High-end 3D animated feature film quality, golden sunrise light.",
+ "negativo": "transparent wings, insect wings, bee wings, dragonfly wings, curved beak, beak changing length, hat changing, extra limbs, extra characters, duplicate character, floating objects, objects appearing from nowhere, scene cut, jump cut, camera cut, morphing, deformed face, distorted, blurry character, text, subtitles, watermark, logo",
+ "segundos": 5,
+ "usd_aprox": 0.56,
+ "fecha": "2026-11-09T17:00:00+00:00"
+}

@@ -1,0 +1,11 @@
+{
+ "nombre": "cap1v2-B-barro",
+ "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+ "inicio": "personajes\\generadas\\cap1-k2-picada.png",
+ "final": "personajes\\generadas\\cap1-k3-barro.png",
+ "prompt": "He dives down chasing the falling dew drop, the camera smoothly follows him downward from the treetops to the jungle floor. The drop falls faster and splashes into a small mud puddle; he lands right after it, sitting softly in the puddle with a small cartoon mud splash that leaves a few mud spots on his belly and wings. He blinks, surprised, with a little pout. Keep every character exactly as in the start and end images the whole time. Baby hummingbird: same knitted purple striped beanie with pompom, the crest is always the same three green leaf feathers at the front-left under the beanie edge (never on top, never appearing or disappearing), same long thin straight slate-blue beak, pink feathered wings, purple feet. Mom hummingbird (if present) stays bigger than the baby. Continuous single shot, no cuts. Drops always fall down with gravity, never float. High-end 3D animated feature film quality, golden sunrise light.",
+ "negativo": "transparent wings, insect wings, bee wings, dragonfly wings, curved beak, beak changing length, hat changing, extra limbs, extra characters, duplicate character, floating objects, objects appearing from nowhere, scene cut, jump cut, camera cut, crest changing, feathers appearing, continuous water spray, water stream from beak, mud appearing or disappearing suddenly, morphing, deformed face, distorted, blurry character, text, subtitles, watermark, logo",
+ "segundos": 5,
+ "usd_aprox": 0.56,
+ "fecha": "2026-11-09T22:08:55+00:00"
+}

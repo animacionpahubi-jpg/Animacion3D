@@ -1,0 +1,11 @@
+{
+ "nombre": "cap2-P3",
+ "modelo": "kling-v3",
+ "modo": "pro",
+ "segundos": 5,
+ "inicio": "capitulos\\cap2-tu-puedes\\k3.png",
+ "final": "capitulos\\cap2-tu-puedes\\k4.png",
+ "prompt": "The baby lying belly-down on the big springy leaf: the leaf bounces him up gently like a trampoline, once and twice (boing, boing), and he lands sitting on the leaf, a bit dizzy and laughing, exactly as in the end image. Mom flies down from the upper left to hover beside him on his right, smiling. They never touch or overlap. Same set, same camera, one continuous shot. Dew drops stay still on the leaves. Keep both characters exactly as in the start and end images the whole time: the baby's magenta striped knitted beanie with the pompom at the back, his three thin green leaf feathers growing from his forehead at the front edge of the beanie, his long thin straight navy-blue beak; mom (if present) with her soft leafy crest, always clearly bigger than the baby. Drops always fall with gravity. Continuous single shot, high-end 3D animated feature film quality, warm golden sunrise backlight, saturated warm colors, smooth fluid animation.",
+ "task_id": "949524012814709033",
+ "fecha": "2026-11-11T16:20:57+00:00"
+}

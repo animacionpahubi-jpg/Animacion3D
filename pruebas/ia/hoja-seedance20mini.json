@@ -1,0 +1,22 @@
+{
+ "nombre": "hoja-seedance20mini",
+ "modelo": "bytedance/seedance-2.0/mini/reference-to-video",
+ "guia": "pruebas\\guia-hoja-gris.mp4",
+ "segundos": 5,
+ "usd_aprox": 0.4,
+ "cuerpo": {
+  "prompt": "@Video1 is a gray clay previz (blockout) of a 3D animated film shot. Repaint it into the final high-end 3D animated feature film shot, keeping EXACTLY the same camera movement, timing, positions, silhouettes and motion physics. The gray bird is the baby hummingbird from @Image1 (face close-up) and @Image2 (character sheet): give him exactly that design - round lime-green plush body with soft fine feathers, creamy yellow belly, purple knitted beanie with lighter horizontal stripes and a fluffy purple pompom, two or three small green leaf-shaped crest feathers, big expressive eyes with dark purple irises and two highlights, pink cheeks, short straight slate-blue beak exactly as long as in @Image1, pink wings with lilac tips, purple feet. He is alive and expressive: blinks, curious happy face, very fast blurred hummingbird wing beats while flying, gentle breathing while he peeks. The gray foreground shape is a big glossy tropical leaf with visible veins covered in tiny sparkling dew droplets; the gray ball on it is a big clear dew drop that refracts the light. The gray background blobs are a lush tropical jungle. Golden sunrise backlight from the upper right, warm sun rays through the mist, rim light on the feathers, shallow depth of field with warm bokeh. No text, no extra characters.",
+  "video_urls": [
+   "https://v3b.fal.media/files/b/0ab1cb41/k0ogpdNw-sXAWX_ynXQ_L_guia-hoja-gris.mp4"
+  ],
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0ab1cb41/pQqL7ZNGbEvs4himYZPJQ__bebe-cara.png",
+   "https://v3b.fal.media/files/b/0ab1cb41/8XtTsBp1x05AnfR9VYrbO_bebe-hoja.png"
+  ],
+  "resolution": "480p",
+  "aspect_ratio": "9:16",
+  "duration": "5",
+  "generate_audio": false
+ },
+ "fecha": "2026-11-09T16:18:41+00:00"
+}

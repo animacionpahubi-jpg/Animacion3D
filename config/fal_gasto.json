@@ -1,0 +1,77 @@
+{
+ "usd": 6.47,
+ "imagenes": [
+  {
+   "nombre": "mama-hoja-v1",
+   "usd": 0.3,
+   "fecha": "2026-11-07T16:31:46+00:00"
+  },
+  {
+   "nombre": "pollito-hoja-v1",
+   "usd": 0.3,
+   "fecha": "2026-11-07T16:32:44+00:00"
+  }
+ ],
+ "videos": [
+  {
+   "nombre": "hoja-wan480",
+   "modelo": "alibaba/wan-3.0/reference-to-video",
+   "usd": 0.25,
+   "fecha": "2026-11-07T16:47:20+00:00"
+  },
+  {
+   "nombre": "hoja-kling",
+   "modelo": "fal-ai/kling-video/o3/standard/video-to-video/reference",
+   "usd": 0.63,
+   "fecha": "2026-11-07T16:51:48+00:00"
+  },
+  {
+   "nombre": "hoja-seedance25-borrador",
+   "modelo": "bytedance/seedance-2.5/us/reference-to-video",
+   "usd": 1.23,
+   "fecha": "2026-11-09T15:44:59+00:00"
+  },
+  {
+   "nombre": "hoja-seedance20mini",
+   "modelo": "bytedance/seedance-2.0/mini/reference-to-video",
+   "usd": 0.4,
+   "fecha": "2026-11-09T16:18:41+00:00"
+  },
+  {
+   "nombre": "cap1-plano2-caida",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.56,
+   "fecha": "2026-11-09T16:55:52+00:00"
+  },
+  {
+   "nombre": "cap1-plano3-rie",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.56,
+   "fecha": "2026-11-09T17:00:00+00:00"
+  },
+  {
+   "nombre": "cap1v2-A-salto",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.56,
+   "fecha": "2026-11-09T22:01:57+00:00"
+  },
+  {
+   "nombre": "cap1v2-B-barro",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.56,
+   "fecha": "2026-11-09T22:08:55+00:00"
+  },
+  {
+   "nombre": "cap1v2-C-risa",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.56,
+   "fecha": "2026-11-09T22:13:25+00:00"
+  },
+  {
+   "nombre": "cap1v2-D-ducha",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.56,
+   "fecha": "2026-11-09T22:18:57+00:00"
+  }
+ ]
+}

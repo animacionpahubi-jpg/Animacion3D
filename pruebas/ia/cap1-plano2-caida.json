@@ -1,0 +1,11 @@
+{
+ "nombre": "cap1-plano2-caida",
+ "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+ "inicio": "personajes\\referencias\\cap1-img1-vuela.png",
+ "final": "personajes\\referencias\\cap1-img2-barro.png",
+ "prompt": "The baby hummingbird chases the sparkling dew drop floating in front of him, flying with very fast blurred hummingbird wing beats and stretching his beak to catch it. The drop slips away and falls; he dives down after it too fast, tumbles once in the air and lands sitting in the soft mud of the jungle path with a small splash of mud, surprised. The camera smoothly tilts and follows him down from the sunrise sky to the muddy path in one continuous move. Keep the character exactly as in the start image the whole time: same knitted purple striped beanie with pompom, same small green leaf crest, same short straight slate-blue beak, pink feathered wings, purple feet. Continuous single shot, no cuts. High-end 3D animated feature film quality, golden sunrise light.",
+ "negativo": "transparent wings, insect wings, bee wings, dragonfly wings, curved beak, beak changing length, hat changing, extra limbs, extra characters, duplicate character, floating objects, objects appearing from nowhere, scene cut, jump cut, camera cut, morphing, deformed face, distorted, blurry character, text, subtitles, watermark, logo",
+ "segundos": 5,
+ "usd_aprox": 0.56,
+ "fecha": "2026-11-09T16:55:52+00:00"
+}

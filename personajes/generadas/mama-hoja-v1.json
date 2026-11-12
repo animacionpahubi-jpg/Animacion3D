@@ -1,0 +1,14 @@
+{
+ "nombre": "mama-hoja-v1",
+ "modelo": "openai/gpt-image-2.6/sunburst/edit",
+ "calidad": "high",
+ "tamano": "landscape_16_9",
+ "refs": [
+  "personajes\\referencias\\mama-expresiones-chatgpt.png",
+  "personajes\\hojas\\mama-hoja-original.png",
+  "personajes\\hojas\\bebe-hoja-original.png"
+ ],
+ "prompt": "Create a character sheet of the hummingbird MOTHER shown in images 1 and 2 (image 1 = her expression sheet, image 2 = her current low-resolution sheet; keep her design EXACTLY). Copy the exact LAYOUT, framing, background and rendering style of image 3 (the baby hummingbird's sheet): horizontal 16:9 canvas, plain neutral gray background (#808080), divided into exactly 3 equal sections separated by thin light lines: 1) high-resolution close-up of her face from the front, tender happy expression; 2) full body from the front; 3) full body from the back. 3D animated movie style with soft plush texture. Fixed traits: adult hummingbird, lime green, taller and slimmer than the baby, creamy yellow belly; NO hat; fan-shaped crest of green feathers; big eyes with purple iris, two white highlights and black eyelashes; slate-blue straight thin beak, longer than the baby's; pink wings with lilac-purple gradient toward the base; pink tail feathers; purple feet with 3 toes. Soft studio lighting, no harsh shadows, no text, no extra objects.",
+ "usd_aprox": 0.3,
+ "fecha": "2026-11-07T16:31:46+00:00"
+}

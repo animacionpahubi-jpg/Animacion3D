@@ -1,0 +1,14 @@
+{
+ "nombre": "pollito-hoja-v1",
+ "modelo": "openai/gpt-image-2.6/sunburst/edit",
+ "calidad": "high",
+ "tamano": "landscape_16_9",
+ "refs": [
+  "personajes\\hojas\\pollito-hoja-original.png",
+  "personajes\\referencias\\pollito-2d.jpg",
+  "personajes\\hojas\\bebe-hoja-original.png"
+ ],
+ "prompt": "Create a character sheet of the baby CHICK shown in images 1 and 2 (image 1 = his current low-resolution 3D sheet, image 2 = his original 2D drawing; keep his design EXACTLY as in image 1). Copy the exact LAYOUT, framing, background and rendering style of image 3 (the baby hummingbird's sheet): horizontal 16:9 canvas, plain neutral gray background (#808080), divided into exactly 3 equal sections separated by thin light lines: 1) high-resolution close-up of his face from the front, happy expression; 2) full body from the front; 3) full body from the back. 3D animated movie style with soft plush texture. Fixed traits: round fluffy chick, light sandy caramel color with a paler chest; messy fluff on top of the head, no crest, no hat; big black eyes with white highlights, brown eyebrows and pink cheeks; short triangular orange beak; light brown wings with defined feathers and a small tail of 3-4 feathers; thin orange-brown legs with 3 toes; same size as the baby hummingbird. Soft studio lighting, no harsh shadows, no text, no extra objects.",
+ "usd_aprox": 0.3,
+ "fecha": "2026-11-07T16:32:44+00:00"
+}

@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\Trabajo Pahubi\Animacion-3D\src\kling_api.py", line 69, in <module>
+    generar(a[0], pathlib.Path(a[1]), None if a[2] == "-" else pathlib.Path(a[2]), a[3],
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            int(op("--segundos", 5)), op("--modelo", "kling-v3"), op("--modo", "pro"))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC\Desktop\Trabajo Pahubi\Animacion-3D\src\kling_api.py", line 41, in generar
+    cuerpo = {"model_name": modelo, "mode": modo, "image": b64(inicio), "prompt": prompt + ESTILO, "negative_prompt": NEGATIVO,
+                                                           ~~~^^^^^^^^
+  File "c:\Users\PC\Desktop\Trabajo Pahubi\Animacion-3D\src\kling_api.py", line 37, in b64
+    def b64(p): return base64.b64encode(pathlib.Path(p).read_bytes()).decode()
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\PC\AppData\Local\Python\pythoncore-3.14-64\Lib\pathlib\__init__.py", line 777, in read_bytes
+    with self.open(mode='rb', buffering=0) as f:
+         ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Python\pythoncore-3.14-64\Lib\pathlib\__init__.py", line 771, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Program Files\\Git\\k3-mama-flor.png'

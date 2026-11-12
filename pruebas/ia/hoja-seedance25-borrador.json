@@ -1,0 +1,24 @@
+{
+ "nombre": "hoja-seedance25-borrador",
+ "modelo": "bytedance/seedance-2.5/us/reference-to-video",
+ "guia": "pruebas\\guia-hoja-gris.mp4",
+ "segundos": 5,
+ "usd_aprox": 1.23,
+ "cuerpo": {
+  "prompt": "@Video1 is a gray clay previz (blockout) of a 3D animated film shot. Repaint it into the final high-end 3D animated feature film shot, keeping EXACTLY the same camera movement, timing, positions, silhouettes and motion physics. The gray bird is the baby hummingbird from @Image1 (face close-up) and @Image2 (character sheet): give him exactly that design - round lime-green plush body with soft fine feathers, creamy yellow belly, purple knitted beanie with lighter horizontal stripes and a fluffy purple pompom, two or three small green leaf-shaped crest feathers, big expressive eyes with dark purple irises and two highlights, pink cheeks, short straight slate-blue beak exactly as long as in @Image1, pink wings with lilac tips, purple feet. He is alive and expressive: blinks, curious happy face, very fast blurred hummingbird wing beats while flying, gentle breathing while he peeks. The gray foreground shape is a big glossy tropical leaf with visible veins covered in tiny sparkling dew droplets; the gray ball on it is a big clear dew drop that refracts the light. The gray background blobs are a lush tropical jungle. Golden sunrise backlight from the upper right, warm sun rays through the mist, rim light on the feathers, shallow depth of field with warm bokeh. No text, no extra characters.",
+  "video_urls": [
+   "https://v3b.fal.media/files/b/0ab1ca9c/6bYsKTiwQ1P4KUTdE3I9r_guia-hoja-gris.mp4"
+  ],
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0ab1ca9c/lOpzFG3bAd0rXptupXuW9__bebe-cara.png",
+   "https://v3b.fal.media/files/b/0ab1ca9c/rJ60x81tlHoXVsqP0SapL_bebe-hoja.png"
+  ],
+  "task": "editing",
+  "draft": true,
+  "resolution": "480p",
+  "generate_audio": false
+ },
+ "fecha": "2026-11-09T15:44:59+00:00",
+ "nota": "draft_id impreso en consola al generar; completar en 1080p con bytedance/seedance-2.5/us/draft/complete antes de 7 días",
+ "draft_id": "draft_gAAAAABq8eoy6lEOZ6pnGiUpkYsqzufL3tNkr8_PVhakE-Db4BrlMEX-PEPdJoy1E0n-rFFiS38AfFOO6s5h_v78IMYwgXBnB0-gzTQa1GCbbHuZaTh7ZMNzyb4DP1tRplADalGBmtc4NnXXNkvFVno5fOFB2PDVk60G68uPBheYoQ_wKt_WZgG129-nxqevbhR_wIATFTu2o8N93Gjh2uquMOL-bBiWK0bbMW9BmvbvPu0OQBidDZsuSfr0fDORLV6s7JTlJ_ZzGt4lob1SsPW4_gvqGwprrAb_EdjRXjW2i9gk4gs8ABkPPq2ARGT9v1bhsPoNZzCooihW8E5lmqsqVn3WPWXswEs2I8TXHrUhmU-MFK9sGn9BS08XmickLxLNhDTXc-AMSTiJtZlF8Z8zEouhjxeI1hL5wNHQUNodVM1KB9QhtLBDD4e3qt1Qv2xDLZ8vy3DhNf0T2erUCsidyMyCHXbPTo1yB5C-npKYbV7_9CqnlqQ="
+}

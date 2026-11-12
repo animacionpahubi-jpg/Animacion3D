@@ -1,0 +1,8 @@
+Use your image generation tool to create ONE image and save it as capitulos/cap1-gota-v5/k4-abrazo-barro.png (portrait 1024x1536).
+Attached, in order: (1) k4-abrazo.png = the scene to reproduce: SAME place, same pink hibiscus, same puddle, same camera, same golden sunrise backlight, same poses of the hug; (2) k2-barro.png = how the baby's mud looks; (3)-(4) official baby design; (5) official mom design.
+Make image (1) again with ONLY these changes:
+- The baby is still muddy: EXACTLY three small brown mud smudges on his yellow belly and two small smudges on each pink wing, the same shape and size as in image (2). Nothing else is muddy. Mom is clean (a tiny smudge on her wing tip where she touches him is fine).
+- Mom hugs him tenderly with eyes closed and a loving smile, her cheek resting on top of his beanie; her long thin beak points UP and AWAY over his head (it never touches his face, beanie or body; the beaks never cross).
+- Baby: magenta striped knitted beanie with fluffy pompom at the back, three thin green leaf feathers growing from his forehead at the front edge of the beanie (never through the knit), long thin straight navy-blue beak, eyes closed, happy.
+- Mom: no hat, soft crest of 5-6 separate matte leaf feathers, long lashes, peach-pink wings fading to lilac, clearly BIGGER than the baby (about 1.4x).
+High-end 3D animated film look exactly like image (1). No text.

@@ -1,0 +1,21 @@
+# Claves (nunca en git)
+.env
+.env.*
+# Dependencias y temporales (se reinstalan / regeneran)
+node_modules/
+__pycache__/
+*.pyc
+editor/out/
+capitulos/**/tmp*/
+editor/public/*.mp4
+editor/public/_*.wav
+# Experimento Blender descartado (pesado)
+*.blend
+*.blend1
+# Recursos descargables gratis (Poly Haven, CC0): se vuelven a bajar si hacen falta
+assets/polyhaven/
+# Comprimidos de referencia
+*.zip
+# Versiones viejas de los capítulos (se conservan solo las finales)
+capitulos/cap1-atrapa-la-gota/cap1-atrapa-la-gota-v[2-5].mp4
+capitulos/cap2-tu-puedes/salida/tu-puedes-v[1-4].mp4

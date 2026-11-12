@@ -1,0 +1,116 @@
+{
+ "tareas": [
+  {
+   "nombre": "cap1-A",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949486637229803731",
+   "fecha": "2026-11-11T13:53:06+00:00"
+  },
+  {
+   "nombre": "cap1-A2",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949487986847138971",
+   "fecha": "2026-11-11T13:57:55+00:00"
+  },
+  {
+   "nombre": "cap1-A3",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949488788345081000",
+   "fecha": "2026-11-11T14:03:01+00:00"
+  },
+  {
+   "nombre": "cap1-B",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 10,
+   "task_id": "949489998750551212",
+   "fecha": "2026-11-11T14:07:10+00:00"
+  },
+  {
+   "nombre": "cap1-C",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 10,
+   "task_id": "949491610462208489",
+   "fecha": "2026-11-11T14:11:16+00:00"
+  },
+  {
+   "nombre": "cap1-B2",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 10,
+   "task_id": "949491804083847456",
+   "fecha": "2026-11-11T14:11:59+00:00"
+  },
+  {
+   "nombre": "cap1-C2",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 10,
+   "task_id": "949498885444092879",
+   "fecha": "2026-11-11T14:40:03+00:00"
+  },
+  {
+   "nombre": "cap2-P1",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949519858474043355",
+   "fecha": "2026-11-11T16:03:25+00:00"
+  },
+  {
+   "nombre": "cap2-P2",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949521496362976700",
+   "fecha": "2026-11-11T16:08:51+00:00"
+  },
+  {
+   "nombre": "cap2-P2b",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949522495077106470",
+   "fecha": "2026-11-11T16:15:59+00:00"
+  },
+  {
+   "nombre": "cap2-P3",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949524012814709033",
+   "fecha": "2026-11-11T16:20:57+00:00"
+  },
+  {
+   "nombre": "cap2-P4",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949525111395204576",
+   "fecha": "2026-11-11T16:24:15+00:00"
+  },
+  {
+   "nombre": "cap2-P5",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949526029750646038",
+   "fecha": "2026-11-11T16:26:28+00:00"
+  },
+  {
+   "nombre": "cap2-P3b",
+   "modelo": "kling-v3",
+   "modo": "pro",
+   "segundos": 5,
+   "task_id": "949532486198642421",
+   "fecha": "2026-11-11T16:51:28+00:00"
+  }
+ ]
+}
