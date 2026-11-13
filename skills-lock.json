@@ -55,6 +55,12 @@
       "skillPath": "higgsfield-youtube-thumbnail/SKILL.md",
       "computedHash": ""
     },
+    "kling-cli": {
+      "source": "klingai-tech/skills",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "b87084f86354c32d091e2b5854e13ed0623464b88ff694568324ca098d120f24"
+    },
     "remotion-best-practices": {
       "source": "remotion-dev/skills",
       "sourceType": "github",
