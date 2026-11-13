@@ -1,4 +1,4 @@
-> **REGLAS VIGENTES: `personajes/REGLAS.md` (2026-11-13).** Imágenes oficiales: `personajes/personajes_finales/` (bebé: bebe-pose.jpg, bebe-expresiones.jpg; mamá: mama-vistas.jpg, mama-pose.jpg, mama-expresiones.jpg). Copete del bebé: 3 hojitas CORTAS que nacen de la FRENTE bajo el borde del gorro (nunca encima). Mamá ≈1,4× el bebé, cresta de 5–6 plumitas-hoja. Todo lo que sigue en este archivo y `personajes/hojas/` es el diseño ANTERIOR: solo histórico, NO usarlo como referencia.
+> **REGLAS VIGENTES: `personajes/REGLAS.md` (2026-11-13).** Imágenes oficiales: `personajes/personajes_finales/` (bebé: bebe-pose-corregida.png, bebe-expresiones.jpg — nunca bebe-pose.jpg, que tiene el copete mal; mamá: mama-vistas.jpg, mama-pose.jpg, mama-expresiones.jpg). Copete del bebé: 3 hojitas CORTAS que nacen de la FRENTE bajo el borde del gorro (nunca encima). Mamá ≈1,4× el bebé, cresta de 5–6 plumitas-hoja. Todo lo que sigue en este archivo y `personajes/hojas/` es el diseño ANTERIOR: solo histórico, NO usarlo como referencia.
 
 # Fichas oficiales de personajes — Pahubi Animación 3D (Fase 0)
 

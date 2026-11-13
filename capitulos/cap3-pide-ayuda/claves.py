@@ -2,7 +2,7 @@
 import pathlib, subprocess
 R = pathlib.Path(__file__).resolve().parents[2]; K = pathlib.Path(__file__).parent
 P = "personajes/personajes_finales"; FONDO = "fondos/f1-flor-hibisco.png"
-OFICIAL = [f"{P}/bebe-pose.jpg", f"{P}/bebe-expresiones.jpg", f"{P}/mama-vistas.jpg", f"{P}/mama-pose.jpg"]
+OFICIAL = [f"{P}/bebe-pose-corregida.png", f"{P}/bebe-expresiones.jpg", f"{P}/mama-vistas.jpg", f"{P}/mama-pose.jpg"]
 COMUN = """Characters EXACTLY like the official character images attached (never invent a design):
 - BABY: magenta knitted beanie with pink stripes and a fluffy magenta pompom at the BACK; EXACTLY THREE SHORT thin green leaf feathers (no taller than a third of the beanie) growing from his FOREHEAD,
   peeking out from UNDER the front brim of the beanie at the front-center (never through the knit, never on the side, never on top of the beanie);

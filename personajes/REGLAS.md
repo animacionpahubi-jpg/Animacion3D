@@ -26,10 +26,16 @@ referencia de estilo, colores y cara; donde una imagen oficial no cumpla una reg
 - En abrazos, el pico de mamá apunta hacia arriba y afuera, por encima de la cabeza del bebé: nunca toca su cara, gorro o cuerpo; los picos nunca se cruzan.
 
 ## Conflictos conocidos
-- `personajes_finales/bebe-pose.jpg` muestra las hojitas saliendo por encima del gorro. Para el copete **no se usa como referencia**: el
-  prompt debe decir explícitamente la regla de arriba y la revisión rechaza toda imagen con las hojitas sobre o a través del gorro.
-  Pendiente (#17): una versión corregida de esa referencia o recortes de cara donde se vea el copete correcto.
+- `personajes_finales/bebe-pose.jpg` (original) muestra las hojitas saliendo por encima del gorro: **ya no se adjunta a ningún
+  generador**. En su lugar se usa **`personajes_finales/bebe-pose-corregida.png`** (2026-11-13): misma pose, gorro, cara y colores, con el
+  copete correcto (3 hojitas que nacen de la frente bajo el borde del gorro), editada con Codex tomando el copete de `bebe-expresiones.jpg`.
+  El original se conserva solo como histórico.
+- `personajes_finales/bebe-expresiones.jpg` ya cumple la regla del copete en sus 9 caras: es la referencia principal del copete.
 - `personajes/FICHAS.md` y `personajes/hojas/` describen el diseño anterior: solo históricos.
+
+## Referencias que se adjuntan a los generadores
+- Bebé: `personajes_finales/bebe-pose-corregida.png`, `personajes_finales/bebe-expresiones.jpg` (nunca `bebe-pose.jpg`).
+- Mamá: `personajes_finales/mama-vistas.jpg`, `personajes_finales/mama-pose.jpg` (y `mama-expresiones.jpg` para primeros planos).
 
 ## Texto para los prompts (inglés; copiar tal cual)
 ```
