@@ -5,7 +5,8 @@ Responde siempre en español. No instales nada sin avisar. Usa solo recursos pro
 1. **Proyecto independiente.** Animacion-3D NO comparte código, configuración, producción nocturna, bot ni git con ANIMACION-2D.
    Del 2D (`../ANIMACION-2D`) solo se LEE como referencia (`docs/01-ESTANDAR.md`, `docs/lecciones.md`, `config/reglas-contenido.yml`).
    Nunca escribir, mover ni borrar nada dentro de ANIMACION-2D desde este proyecto. Si algo del 2D sirve, se COPIA aquí.
-2. Mismos personajes: "colibrí bebé", "mamá colibrí", "pollito". Nunca "Pío". Diseño oficial: SOLO `personajes/personajes_finales/`.
+2. Mismos personajes: "colibrí bebé", "mamá colibrí", "pollito". Nunca "Pío". Diseño oficial: SOLO `personajes/personajes_finales/`, con las reglas de
+   `personajes/REGLAS.md` (copete, cresta de mamá, proporción); si una imagen y REGLAS.md no coinciden, manda REGLAS.md.
 3. Contenido apto para toda la familia (mismas reglas que el 2D: sin política, religión, ideología, burlas, violencia real, miedo intenso,
    marcas ajenas, material con derechos de terceros). Marca Pahubi solo discreta.
 4. Herramientas actuales: Codex CLI (imágenes clave, cuenta ChatGPT), Kling API (`src/kling_api.py`, de pago), Remotion (`editor/`, montaje),

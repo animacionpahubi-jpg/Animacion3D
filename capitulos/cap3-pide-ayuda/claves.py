@@ -2,14 +2,14 @@
 import pathlib, subprocess
 R = pathlib.Path(__file__).resolve().parents[2]; K = pathlib.Path(__file__).parent
 P = "personajes/personajes_finales"; FONDO = "fondos/f1-flor-hibisco.png"
-OFICIAL = [f"{P}/bebe-pose.jpg", f"{P}/bebe-expresiones.jpg", f"{P}/mama-vistas.jpg", f"{P}/mama-pose.jpg"]
+OFICIAL = [f"{P}/bebe-pose-corregida.png", f"{P}/bebe-expresiones.jpg", f"{P}/mama-vistas.jpg", f"{P}/mama-pose.jpg"]
 COMUN = """Characters EXACTLY like the official character images attached (never invent a design):
-- BABY: magenta knitted beanie with pink stripes and a fluffy magenta pompom at the BACK; three thin green leaf feathers growing from his FOREHEAD,
+- BABY: magenta knitted beanie with pink stripes and a fluffy magenta pompom at the BACK; EXACTLY THREE SHORT thin green leaf feathers (no taller than a third of the beanie) growing from his FOREHEAD,
   peeking out from UNDER the front brim of the beanie at the front-center (never through the knit, never on the side, never on top of the beanie);
   round vivid-green plush body, soft yellow belly, magenta eyes, pink cheeks, LONG thin straight navy-blue beak (three-quarter view so it reads long),
   peach-pink wings, purple feet.
-- MOM: NO hat; soft crest of 5-6 separate matte leaf feathers with light tips (never a slick helmet, never spikes); long eyelashes,
-  peach-pink wings fading to lilac; always clearly BIGGER than the baby (about 1.4x).
+- MOM: NO hat; crest of 5-6 separate matte leaf-shaped feathers with light tips, swept back (never a slick helmet, never spikes, never a fan); long eyelashes,
+  peach-pink wings fading to lilac; always clearly BIGGER than the baby (about 1.4x his height).
 SET: the attached background f1-flor-hibisco.png: same dirt path, same big pink hibiscus on its stem at the right, same golden sunrise backlight.
 The hibiscus is TALL: its flower is well above the baby's head. Nothing floats. High-end 3D animated film look (Pixar-like), soft plush textures,
 warm golden rim light. Portrait 1024x1536. No text."""
