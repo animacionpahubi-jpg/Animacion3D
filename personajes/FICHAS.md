@@ -1,4 +1,4 @@
-> **DISEÑO OFICIAL VIGENTE (desde 2026-11-10): `personajes/personajes_finales/`** — bebé: bebe-pose.jpg, bebe-expresiones.jpg (gorro magenta con rayas rosadas, pompón atrás, 3 hojitas que salen POR ENCIMA del gorro, pico azul marino largo); mamá: mama-vistas.jpg, mama-pose.jpg, mama-expresiones.jpg (sin gorro, cresta suave peinada hacia atrás, pestañas largas). Las fichas de abajo y `personajes/hojas/` son el diseño anterior: NO usarlas como referencia.
+> **REGLAS VIGENTES: `personajes/REGLAS.md` (2026-11-13).** Imágenes oficiales: `personajes/personajes_finales/` (bebé: bebe-pose.jpg, bebe-expresiones.jpg; mamá: mama-vistas.jpg, mama-pose.jpg, mama-expresiones.jpg). Copete del bebé: 3 hojitas CORTAS que nacen de la FRENTE bajo el borde del gorro (nunca encima). Mamá ≈1,4× el bebé, cresta de 5–6 plumitas-hoja. Todo lo que sigue en este archivo y `personajes/hojas/` es el diseño ANTERIOR: solo histórico, NO usarlo como referencia.
 
 # Fichas oficiales de personajes — Pahubi Animación 3D (Fase 0)
 

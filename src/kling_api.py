@@ -10,12 +10,12 @@ SAL = RAIZ / "pruebas" / "ia"
 REG = RAIZ / "config" / "kling_gasto.json"
 API = "https://api-singapore.klingai.com"
 NEGATIVO = ("transparent wings, insect wings, teal wings, turquoise wings, green wings, blue tail, peacock tail, blue feathers, stretched drop, liquid string, gooey drop, drop hanging on a thread, spider thread, "
-            "water streams like threads, mud growing, beak touching the face, curved beak, short beak, beak changing length, hat changing color, crest coming out of the hat fabric, "
-            "crest on the side, extra feathers, extra limbs, extra characters, duplicate character, floating drops, drops hovering, objects appearing "
+            "water streams like threads, mud growing, beak touching the face, curved beak, short beak, beak changing length, hat changing color, crest coming out of the hat fabric, crest on top of the beanie, leaves growing through the hat, tall crest, more than three crest leaves, "
+            "crest on the side, fan crest, spiky crest, slick helmet hair, mom same size as baby, extra feathers, extra limbs, extra characters, duplicate character, floating drops, drops hovering, objects appearing "
             "from nowhere, mud spots multiplying, beak poking into the other character, scene cut, jump cut, morphing, deformed face, blurry, text, watermark, logo")
 ESTILO = (" Keep both characters exactly as in the start and end images the whole time: the baby's magenta striped knitted beanie with the pompom at the "
-          "back, his three thin green leaf feathers growing from his forehead at the front edge of the beanie, his long thin straight navy-blue beak; "
-          "mom (if present) with her soft leafy crest, always clearly bigger than the baby. Drops always fall with gravity. Continuous single shot, "
+          "back, his exactly three SHORT thin green leaf feathers growing from his forehead under the front brim of the beanie (never on top of it), his long thin straight navy-blue beak; "
+          "mom (if present) with her crest of 5-6 separate matte leaf feathers swept back, always clearly bigger than the baby (about 1.4x). Drops always fall with gravity. Continuous single shot, "
           "high-end 3D animated feature film quality, warm golden sunrise backlight, saturated warm colors, smooth fluid animation.")
 
 

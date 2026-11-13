@@ -16,7 +16,7 @@ Se probó primero 3D real en Blender por código (5–6/10, se descartó) y lueg
    referencia de continuidad. Comando:
    `codex exec -m gpt-5.6-luna --skip-git-repo-check -s workspace-write -i ref1.png -i ref2.png - < prompt.txt`
    (el modelo por defecto gpt-5.5 no sirve con cuenta ChatGPT; sale 1024x1536). Ejemplo completo: `capitulos/cap2-tu-puedes/claves.py`.
-3. **Revisión estricta (Claude) ANTES de mostrar:** ampliar caras y comparar contra `personajes_finales`: copete del bebé = 3 hojitas que
+3. **Revisión estricta (Claude) ANTES de mostrar:** ampliar caras y comparar contra `personajes_finales` y `personajes/REGLAS.md` (manda REGLAS.md): copete del bebé = 3 hojitas CORTAS que
    nacen de la FRENTE bajo el borde del gorro (nunca atravesando la lana); gorro magenta a rayas con pompón ATRÁS; pico azul marino largo
    en diagonal; mamá sin gorro, cresta de 5–6 plumitas-hoja mate (nunca pelo liso tipo casco), mamá ≈1,4× el bebé; mismo lugar, cámara,
    luz y objetos entre imágenes seguidas; nada flota. Si algo falla, se rehace y no se muestra.
