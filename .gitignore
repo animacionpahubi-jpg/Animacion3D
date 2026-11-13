@@ -4,6 +4,7 @@
 # Dependencias y temporales (se reinstalan / regeneran)
 node_modules/
 __pycache__/
+.venv/
 *.pyc
 editor/out/
 capitulos/**/tmp*/
